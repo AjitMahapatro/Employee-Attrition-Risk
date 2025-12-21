@@ -11,7 +11,7 @@
 ![Demographics](Dashboard-Workforce%20Demographics.png)
 
 **3. Root Cause Analysis**
-*(Key drivers of churn: Income, Overtime, and Job Satisfaction)*![Root Cause](Dashboard-Root%20Cause%20Analysis.png)
+*(Key drivers of churn: Income, Overtime, and Job Satisfaction)*
 ![Root Cause](Dashboard-Root%20Cause%20Analysis.png)
 
 **4. Predictive Analysis**
